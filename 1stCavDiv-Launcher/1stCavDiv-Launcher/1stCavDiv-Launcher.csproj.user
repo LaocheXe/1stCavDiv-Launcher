@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://hosted12.nfoservers.com/public/home/files/launcherbeta/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://1stcavdiv.us/files/launcherbeta/</InstallUrlHistory>
+    <SupportUrlHistory>http://1stcavdiv.us/plugins/forum/forum_viewforum.php%3f35</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://1stcavdiv.us/plugins/forum/forum_viewtopic.php%3f83</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

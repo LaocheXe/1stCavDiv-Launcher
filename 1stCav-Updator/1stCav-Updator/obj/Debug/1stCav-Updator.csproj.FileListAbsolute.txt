@@ -1,0 +1,28 @@
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\1stCav-Updator.exe.config
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\1stCav-Updator.exe
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\1stCav-Updator.pdb
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\Ionic.Zip.dll
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\_1stCav_Updator.AppSettings.resources
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\_1stCav_Updator.Main.resources
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\_1stCav_Updator.Properties.Resources.resources
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\1stCav-Updator.csproj.GenerateResource.Cache
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\1stCav-Updator.exe
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\1stCav-Updator.pdb
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\bin\Debug\1stCav-Updator.exe.config
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\1stCav-Updator.exe
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\1stCav-Updator.pdb
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\bin\Debug\1stCav-Updator.exe
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\bin\Debug\1stCav-Updator.pdb
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\bin\Debug\Ionic.Zip.dll
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\1stCav-Updator.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\_1stCav_Updator.AppSettings.resources
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\_1stCav_Updator.Main.resources
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\_1stCav_Updator.Properties.Resources.resources
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator-Odd\1stCav-Updator\obj\Debug\1stCav-Updator.csproj.GenerateResource.Cache
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\SharpCompress.dll
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\1stCav-Updator.exe.CodeAnalysisLog.xml
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\1stCav-Updator.exe.lastcodeanalysissucceeded
+C:\Users\Travis\Desktop\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\1stCav-Updator.csprojResolveAssemblyReference.cache
+D:\Random VS Code\1stCavLauncher\1stCav-Updator\1stCav-Updator\bin\Debug\1stCav-Updator.exe.config
+D:\Random VS Code\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\1stCav-Updator.exe
+D:\Random VS Code\1stCavLauncher\1stCav-Updator\1stCav-Updator\obj\Debug\1stCav-Updator.pdb
