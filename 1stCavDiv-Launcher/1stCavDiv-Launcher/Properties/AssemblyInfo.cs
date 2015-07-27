@@ -1,12 +1,13 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+using System.Resources;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("1st Cavalry Division Launcher")]
-[assembly: AssemblyDescription("In The Works - This program is in Alpha Phase - Not Final Product")]
+[assembly: AssemblyDescription("This program is in Alpha Phase. This Launcher is 100 % Safe. Only thing this program does is launch a game called Arma 3 with any mods and with any selected parameters. This Is Not The Final Product")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LaocheXe")]
 [assembly: AssemblyProduct("1stCavDiv-Launcher")]
@@ -32,5 +33,6 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.0.0.1")]
-[assembly: AssemblyFileVersion("0.0.0.1")]
+[assembly: AssemblyVersion("0.0.1.7")]
+[assembly: AssemblyFileVersion("0.0.1.7")]
+[assembly: NeutralResourcesLanguageAttribute("en")]

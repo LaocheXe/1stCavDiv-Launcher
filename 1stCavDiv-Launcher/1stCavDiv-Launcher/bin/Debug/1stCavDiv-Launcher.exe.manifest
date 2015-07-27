@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="1stCavDiv-Launcher.exe" version="0.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
-  <description asmv2:iconFile="favicon.ico" asmv2:publisher="LaocheXe" co.v1:suiteName="1stCavDiv-Launcher" asmv2:product="1stCavDiv Launcher" asmv2:supportUrl="http://1stcavdiv.us/plugins/forum/forum_viewforum.php?35" co.v1:errorReportUrl="http://1stcavdiv.us/plugins/forum/forum_viewtopic.php?83" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <asmv1:assemblyIdentity name="1stCavDiv-Launcher.exe" version="0.0.1.8" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="natotflogo184.ico" asmv2:publisher="LaocheXe" co.v1:suiteName="1stCavDiv-Launcher" asmv2:product="1stCavDiv Launcher" asmv2:supportUrl="http://1stcavdiv.us/plugins/forum/forum_viewforum.php?35" co.v1:errorReportUrl="http://1stcavdiv.us/plugins/forum/forum_viewtopic.php?83" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="1stCavDiv-Launcher" version="0.0.0.1" publicKeyToken="EC8ABCAB92532A12" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="1stCavDiv-Launcher" version="0.0.1.7" language="neutral" processorArchitecture="msil" />
     <commandLine file="1stCavDiv-Launcher.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -44,24 +44,72 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="1stCavDiv-Launcher.exe" size="1112064">
-      <assemblyIdentity name="1stCavDiv-Launcher" version="0.0.0.1" publicKeyToken="EC8ABCAB92532A12" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="1stCavDiv-Launcher.exe" size="6946816">
+      <assemblyIdentity name="1stCavDiv-Launcher" version="0.0.1.7" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5J5LPJJR5yzs0TZ5tRkK6GafBkDsGRilpx1VAV9x/QA=</dsig:DigestValue>
+        <dsig:DigestValue>WZoLHKOUNo2sGnNJ3HgpvM4nNxC/UNj5N/uTMUfbg1c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="1stCavDiv-Launcher.exe.config" size="2471">
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ionic.Zip.dll" size="462336">
+      <assemblyIdentity name="Ionic.Zip" version="1.9.1.8" publicKeyToken="EDBE51AD942A3F5C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Oz5UFoLkjz/Shy+FoGJ42i8+eHfulW2om5DXMqHqoL0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="500224">
+      <assemblyIdentity name="Newtonsoft.Json" version="6.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Aw5znLpgw7RgTuFXRJeuvIkrfOsM5E3Tn9Hvd2ei8TQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Net.Http.Extensions.dll" size="22256">
+      <assemblyIdentity name="System.Net.Http.Extensions" version="2.2.18.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>QdL/3rSYqH7mSXkTWi9lCQooboMqWi6zgPb5TZAJCoQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Net.Http.Primitives.dll" size="21744">
+      <assemblyIdentity name="System.Net.Http.Primitives" version="4.2.18.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vfL4SCrBg5AExEIvlKEis3PCGg+ijT3v8FH14uKOsgg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1stCavDiv-Launcher.exe.config" size="3646">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>pB0b8w2HrEtMOuf633Dd3Rqla1TUgp5DFhGLNkoBpiA=</dsig:DigestValue>
+      <dsig:DigestValue>09Ikpi0nhSVwb2HlNPCITMeEkXEufGzBfqsQvmHnQj0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="favicon.ico" size="34494">
@@ -71,6 +119,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>8D7Dc0gDcx8BNj1NC3t5rXqZefl/pnp9gdKdgybM4Nk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="natotflogo184.ico" size="34494">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>un64gp4AuLDack8+JzFWnVHNsLSeNOgCxMgZalksv1A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\natotflogo.png" size="229769">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pD30S3bu7j7m9BweOPpoqcfi8z+7cBirZoOdzixkyyQ=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

@@ -101,5 +101,10 @@ namespace _1stCavDiv_Launcher
             }
         }
         #endregion
+
+        private void okButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

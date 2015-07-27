@@ -61,32 +61,32 @@ namespace _1stCavDiv_Launcher.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static byte[] _1stCav_Updator {
+        internal static System.Drawing.Bitmap natotflogo {
             get {
-                object obj = ResourceManager.GetObject("_1stCav_Updator", resourceCulture);
-                return ((byte[])(obj));
+                object obj = ResourceManager.GetObject("natotflogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static byte[] Ionic_Zip {
+        internal static System.Drawing.Bitmap theLock {
             get {
-                object obj = ResourceManager.GetObject("Ionic_Zip", resourceCulture);
-                return ((byte[])(obj));
+                object obj = ResourceManager.GetObject("theLock", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static byte[] SharpCompress {
+        internal static System.Drawing.Bitmap theUnlock {
             get {
-                object obj = ResourceManager.GetObject("SharpCompress", resourceCulture);
-                return ((byte[])(obj));
+                object obj = ResourceManager.GetObject("theUnlock", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

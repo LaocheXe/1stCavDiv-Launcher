@@ -107,7 +107,7 @@ namespace _1stCavDiv_Launcher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("4")]
         public string paraMemMax {
             get {
                 return ((string)(this["paraMemMax"]));
@@ -119,7 +119,7 @@ namespace _1stCavDiv_Launcher.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
         public string paraVRAMMax {
             get {
                 return ((string)(this["paraVRAMMax"]));
@@ -246,6 +246,64 @@ namespace _1stCavDiv_Launcher.Properties {
             }
             set {
                 this["cparaInit"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool ParameterAdva {
+            get {
+                return ((bool)(this["ParameterAdva"]));
+            }
+            set {
+                this["ParameterAdva"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string WebsiteUserName {
+            get {
+                return ((string)(this["WebsiteUserName"]));
+            }
+            set {
+                this["WebsiteUserName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string WebsiteUserPass {
+            get {
+                return ((string)(this["WebsiteUserPass"]));
+            }
+            set {
+                this["WebsiteUserPass"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Collections.Specialized.StringCollection PresetList {
+            get {
+                return ((global::System.Collections.Specialized.StringCollection)(this["PresetList"]));
+            }
+            set {
+                this["PresetList"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Collections.Specialized.StringCollection GroupList {
+            get {
+                return ((global::System.Collections.Specialized.StringCollection)(this["GroupList"]));
+            }
+            set {
+                this["GroupList"] = value;
             }
         }
     }

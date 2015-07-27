@@ -24,10 +24,10 @@
       <Value Profile="(Default)">TeamSpeakUser</Value>
     </Setting>
     <Setting Name="paraMemMax" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">4</Value>
     </Setting>
     <Setting Name="paraVRAMMax" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">2</Value>
     </Setting>
     <Setting Name="paraCPUCount" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
@@ -58,6 +58,21 @@
     </Setting>
     <Setting Name="cparaInit" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ParameterAdva" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WebsiteUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WebsiteUserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PresetList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GroupList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
     </Setting>
   </Settings>
 </SettingsFile>

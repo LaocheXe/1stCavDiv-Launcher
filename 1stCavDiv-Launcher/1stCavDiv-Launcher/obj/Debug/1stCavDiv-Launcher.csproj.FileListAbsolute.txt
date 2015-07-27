@@ -17,6 +17,33 @@ C:\Users\Travis\Desktop\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\bin
 C:\Users\Travis\Desktop\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.TrustInfo.xml
 C:\Users\Travis\Desktop\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.exe.manifest
 C:\Users\Travis\Desktop\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.application
-D:\Random VS Code\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.exe.config
-D:\Random VS Code\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.exe
-D:\Random VS Code\1stCavLauncher\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.pdb
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.exe.config
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.exe
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.pdb
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.exe.manifest
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.application
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.exe
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.pdb
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.exe.CodeAnalysisLog.xml
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\1stCavDiv-Launcher.exe.lastcodeanalysissucceeded
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\_1stCavDiv_Launcher.AboutBox1.resources
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\_1stCavDiv_Launcher.Main.resources
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\_1stCavDiv_Launcher.AppSettings.resources
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\_1stCavDiv_Launcher.Properties.Resources.resources
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.csproj.GenerateResource.Cache
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.TrustInfo.xml
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.exe.manifest
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.application
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.csproj.App.config
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\_1stCavDiv_Launcher.ServerBrowser.resources
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\_1stCavDiv_Launcher.Splash_Load.resources
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\bin\Debug\Ionic.Zip.dll
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Travis\Source\Workspaces\1stCavDiv-Launcher\1stCavDiv-Launcher\obj\Debug\1stCavDiv-Launcher.csproj.ResolveComReference.cache

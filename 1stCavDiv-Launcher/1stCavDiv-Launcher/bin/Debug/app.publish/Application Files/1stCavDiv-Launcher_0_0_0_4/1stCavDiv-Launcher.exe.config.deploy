@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="_1stCavDiv_Launcher.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <userSettings>
+    <_1stCavDiv_Launcher.Properties.Settings>
+      <setting name="ArmaPath" serializeAs="String">
+        <value>C:\Program Files (x86)\Steam\SteamApps\common\Arma 3\arma3.exe</value>
+      </setting>
+      <setting name="CloseLauncher" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="ModsOnOff" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="ParameterEnabled" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="tsUserName" serializeAs="String">
+        <value>TeamSpeakUser</value>
+      </setting>
+      <setting name="paraMemMax" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="paraVRAMMax" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="paraCPUCount" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="paraexThreads" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="paraMalloc" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="paraInit" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="cparaMemMax" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="cparaVRAMMax" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="cparaCPUCount" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="cparaexThreads" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="cparaMalloc" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="cparaInit" serializeAs="String">
+        <value>False</value>
+      </setting>
+    </_1stCavDiv_Launcher.Properties.Settings>
+  </userSettings>
+</configuration>
